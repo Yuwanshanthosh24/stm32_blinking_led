@@ -165,7 +165,8 @@ void assert_failed(uint8_t *file, uint32_t line)
 
 #endif
 ## Circuit Diagram
-![Uploading Screenshot (69).png…]()
+<img width="1920" height="1080" alt="Screenshot (69)" src="https://github.com/user-attachments/assets/7b5a2803-6433-48c0-8cb2-52444738bdaf" />
+
 
 
 ## Result
